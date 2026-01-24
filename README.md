@@ -23,3 +23,6 @@ This project demonstrates basic Python and Pandas skills, including:
 The notebook includes line plots showing:
 - price trends over time
 - comparison between organic and conventional avocado prices
+
+### 📸 Example Visualization
+![Chicago avocado prices](screenshots/Dynamic_avocado_price_Chicago.png)
