@@ -1,11 +1,11 @@
-## Python & Pandas: Data Validation and Analysis
+## Python & Pandas: Avocado Sales Analysis
 
-This project demonstrates basic Python and Pandas skills, including:
+This project demonstrates Python and Pandas skills, including:
 - working with DataFrames
 - creating calculated columns
 - validating data consistency
 - filtering data by conditions
-- basic aggregation and exploratory analysis
+- aggregation and exploratory analysis
 
 ### Key Tasks
 - Compared `Total Volume` with calculated check sums
@@ -22,7 +22,7 @@ This project demonstrates basic Python and Pandas skills, including:
 - Python
 - Pandas
 - NumPy
-- Matplotlib / Seaborn
+- Seaborn
 
 ### Visualizations
 The notebook includes line plots showing:
