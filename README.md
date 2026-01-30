@@ -15,7 +15,7 @@ This project demonstrates Python and Pandas skills, including:
 
   
 ### Example Visualization
-![Hist_avocado_types](screenshots/Hist_avocado_types.png.png)
+![Hist_avocado_types](screenshots/Hist_avocado_types.png)
 ![Chicago avocado prices](screenshots/Dynamic_avocado_price_Chicago.png)
 
 
