@@ -16,12 +16,12 @@ This project demonstrates Python and Pandas skills, including:
   
 ### Example Visualization
 
-Histogram of avocado price trends:
+Histogram of avocado types price trends:
 
 ![Hist_avocado_types](screenshots/Hist_avocado_types.png)
 
 
-Chicago avocado price dynamic:
+Chicago avocado price trends dynamic:
 
 ![Chicago avocado prices](screenshots/Dynamic_avocado_price_Chicago.png)
 
