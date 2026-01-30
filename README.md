@@ -13,6 +13,11 @@ This project demonstrates basic Python and Pandas skills, including:
 - Analyzed avocado price trends by region and type
 - Visualized price dynamics for a specific region (Chicago)
 
+  
+### Example Visualization
+![Chicago avocado prices](screenshots/Dynamic_avocado_price_Chicago.png)
+
+
 ### Tools & Libraries
 - Python
 - Pandas
@@ -23,6 +28,3 @@ This project demonstrates basic Python and Pandas skills, including:
 The notebook includes line plots showing:
 - price trends over time
 - comparison between organic and conventional avocado prices
-
-### Example Visualization
-![Chicago avocado prices](screenshots/Dynamic_avocado_price_Chicago.png)
